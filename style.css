@@ -1,0 +1,197 @@
+body, html {
+    padding: 0;
+    margin: 0;
+}
+
+/*Menu*/
+
+.menu {
+    width: 100%;
+    height: 90px;
+    background-color: black;
+    font-family: 'Suse', sans-serif;
+    color: white;
+}
+
+.generalMenu {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.generalMenu span {
+    font-size: 25px;
+}
+
+.elementsMenu a {
+    font-size: 14px;
+    cursor: pointer;
+    margin: 13px;
+}
+
+/*Fim Menu*/
+
+/*Body*/
+
+.body {
+    width: 100%;
+    min-height: 100vh;
+    font-family: 'Suse', sans-serif;
+}
+
+/*Section 1*/
+
+.section-1 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+    padding-bottom: 105px;
+    background-color: white;
+}
+
+.my-ft {
+    width: 18%;
+    max-width: 300px;
+    border-radius: 18px;
+}
+
+.elements {
+    margin: auto 0;
+    padding-left: 100px;
+}
+
+.classIcons {
+    text-decoration: none;
+}
+
+.fa-linkedin, .fa-github {
+    font-size: 30px;
+    margin-left: 80px;
+    cursor: pointer;
+    color: black;
+}
+
+/*Fim Section 1*/
+
+/*Section 2*/
+
+.section-2 {
+    width: 100%;
+    height: 50%;
+    background-color: black;
+}
+
+.elements2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding-top: px;
+}
+
+.elements2 p {
+    padding-left: 160px;
+}
+
+/*Fim Section 2*/
+
+/*Section 3*/
+
+.section-3 {
+    width: 100%;
+    height: 50%;
+    background-color: white;
+    padding-bottom: 105px;
+}
+
+.elements3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+.elements3 p {
+    padding-left: 150px;
+}
+
+/*Fim Section 3*/
+
+/*Section 4*/
+
+.section-4 {
+    width: 100%;
+    background-color: black;
+}
+
+.elements4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 40px;
+    color: white;
+}
+
+.elements4 h1 {
+    padding-bottom: 25px;
+} 
+
+.divProjects {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.project1 {
+    width: 35%;
+}
+
+.project2 {
+    width: 35%;
+}
+
+.project3 {
+    width: 35%;
+}
+
+/*Fim Section 4*/
+
+/*Section 5*/
+
+.section-5 {
+    width: 100%;
+    height: 50%;
+}
+
+.elements5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+/*Fim Section 5*/
+
+/*Fim do body*/
+
+/*Footer*/
+.footer {
+    width: 100%;
+    height: 90px;
+    background-color: black;
+    font-family: 'Suse', sans-serif;
+    display: flex;
+}
+
+.msg-footer {
+    color: white;
+    margin: auto;
+}
+
+/*Fim do Footer*/
