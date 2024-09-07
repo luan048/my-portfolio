@@ -83,6 +83,7 @@ body, html {
     width: 100%;
     height: 50%;
     background-color: black;
+    padding-bottom: 55px;
 }
 
 .elements2 {
@@ -91,11 +92,10 @@ body, html {
     align-items: center;
     justify-content: center;
     color: white;
-    padding-top: px;
 }
 
 .elements2 p {
-    padding-left: 160px;
+    
 }
 
 /*Fim Section 2*/
@@ -112,13 +112,17 @@ body, html {
 .elements3 {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center; 
     justify-content: center;
     padding-top: 40px;
 }
 
-.elements3 p {
-    padding-left: 150px;
+.bodyElement3 {
+    padding: 20px; 
+}
+
+.proficiency-level {
+    font-weight: bold;
 }
 
 /*Fim Section 3*/
@@ -141,7 +145,11 @@ body, html {
 
 .elements4 h1 {
     padding-bottom: 25px;
-} 
+}
+
+.pElement4 {
+    margin-left: 68px;
+}
 
 .divProjects {
     display: flex;
@@ -194,6 +202,7 @@ body, html {
 .msg-footer {
     color: white;
     margin: auto;
+    font-size: 14px;
 }
 
 /*Fim do Footer*/
