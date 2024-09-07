@@ -1,0 +1,103 @@
+/*Celulares Padrão*/
+@media (max-width: 370px) {
+    /*Menu*/
+
+    .generalMenu span {
+        margin: auto;
+        margin-top: 10px;
+    }
+
+    .elementsMenu {
+        display: none;
+    }
+    /*Fim Menu*/
+
+    /*Section 1*/
+    .section-1 {
+        flex-direction: column;
+        padding-top: 70px;
+        padding-bottom: 105px;
+    }
+
+    .my-ft {
+        width: 80%;
+        margin: auto;
+    }
+
+    .elements {
+        padding-left: 50px;
+    }
+    /*Fim Section 1*/
+
+    /*FALTA AJUSTAR: 
+     ICONS
+     IMG SECTION 4
+     ÚLTIMO P SECTION 4
+     educationP
+     FOOTER*/
+
+}
+
+/* Celulares Maiores */
+@media (min-width: 371px) and (max-width: 576px) {
+    /*Menu*/
+
+    .generalMenu span {
+        margin: auto;
+        margin-top: 10px;
+    }
+
+    .elementsMenu {
+        display: none;
+    }
+    /*Fim Menu*/
+
+    /*Section 1*/
+    .section-1 {
+        flex-direction: column;
+        padding-top: 70px;
+        padding-bottom: 105px;
+    }
+
+    .my-ft {
+        width: 80%;
+        margin: auto;
+    }
+
+    .elements {
+        padding-left: 50px;
+    }
+    /*Fim Section 1*/
+
+    /*Section 4*/
+
+    .pElement4 {
+        padding-right: 20px;
+    }
+
+    .pElement4 br {
+        display: none;
+    }
+
+    .project1 {
+        width: 95%;
+    }
+
+    .project2 {
+        width: 95%;
+    }
+
+    .project3 {
+        width: 95%;
+    }
+
+    /*Fim Section 4*/
+
+    /*Section 5*/
+
+    .educationP {
+        margin-left: 50px;
+    }
+
+    /*Fim Section 5*/
+}
