@@ -25,17 +25,50 @@
     }
 
     .elements {
-        padding-left: 50px;
+        padding-left: 0px;
+        text-align: center;
+    }
+
+    .divIcons {
+        gap: 110px;
     }
     /*Fim Section 1*/
 
-    /*FALTA AJUSTAR: 
-     ICONS
-     IMG SECTION 4
-     ÚLTIMO P SECTION 4
-     educationP
-     FOOTER*/
+    /*Section 4*/
 
+    .pElement4 {
+        padding-right: 50px;
+    }
+
+    .project1 {
+        width: 90%;
+    }
+
+    .project2 {
+        width: 90%;
+    }
+
+    .project3 {
+        width: 90%;
+    }
+
+    /*Fim Section 4*/
+
+    /*Section 5*/
+
+    .educationP {
+        margin-left: 25px;
+    }
+
+    /*Fim Section 5*/
+
+    /*Footer*/
+
+    .msg-footer {
+        font-size: 13px;
+    }
+
+    /*Fim Footer*/
 }
 
 /* Celulares Maiores */

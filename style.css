@@ -68,9 +68,16 @@ body, html {
     text-decoration: none;
 }
 
+.divIcons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 170px;
+    margin-top: 20px;
+}
+
 .fa-linkedin, .fa-github {
     font-size: 30px;
-    margin-left: 80px;
     cursor: pointer;
     color: black;
 }
