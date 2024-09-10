@@ -64,6 +64,10 @@ body, html {
     padding-left: 100px;
 }
 
+.msg-respons-init {
+    display: none;
+}
+
 .classIcons {
     text-decoration: none;
 }
@@ -99,6 +103,10 @@ body, html {
     align-items: center;
     justify-content: center;
     color: white;
+}
+
+.msg-respons {
+    display: none;
 }
 
 /*Fim Section 2*/
@@ -151,10 +159,6 @@ body, html {
     padding-bottom: 25px;
 }
 
-.pElement4 {
-    margin-left: 68px;
-}
-
 .divProjects {
     display: flex;
     flex-direction: column;
@@ -169,8 +173,20 @@ body, html {
     width: 35%;
 }
 
+.msg-respons2 {
+    display: none;
+}
+
 .project3 {
     width: 35%;
+}
+
+.pElement4 {
+    margin-left: 68px;
+}
+
+.msg-respons3 {
+    display: none;
 }
 
 /*Fim Section 4*/
@@ -180,6 +196,7 @@ body, html {
 .section-5 {
     width: 100%;
     height: 50%;
+    padding-bottom: 50px;
 }
 
 .elements5 {
@@ -188,6 +205,7 @@ body, html {
     align-items: center;
     justify-content: center;
     padding-top: 40px;
+    
 }
 
 /*Fim Section 5*/

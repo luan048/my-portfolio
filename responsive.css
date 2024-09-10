@@ -32,7 +32,46 @@
     .divIcons {
         gap: 110px;
     }
+
+    .msg-respons-init {
+        display: block;
+    }
     /*Fim Section 1*/
+
+    /*Section 2*/
+
+    .msg-respons {
+        display: block;
+        padding: 15px;
+    }
+
+    .msg-respons br {
+        display: none;
+    }
+
+    /*Fim Section 2*/
+
+    /*Section 3*/
+
+    .msgs {
+        display: none;
+    }
+
+    .msg-respons2 {
+        display: block;
+        padding: 10px;
+    }
+
+    .pElement4 {
+        display: none;
+    }
+
+    .msg-respons3 {
+        display: block;
+        padding: 15px;
+    }
+
+    /*Fim Section 3*/
 
     /*Section 4*/
 
@@ -48,8 +87,16 @@
         width: 90%;
     }
 
+    .msg-respons2 {
+        margin-left: 20px;
+    }
+
     .project3 {
         width: 90%;
+    }
+
+    .msg-respons3 {
+        margin-left: 20px;
     }
 
     /*Fim Section 4*/
@@ -100,7 +147,29 @@
     .elements {
         padding-left: 50px;
     }
+
+    .msgs {
+        display: none;
+    }
+
+    .msg-respons-init {
+        display: block;
+        margin-right: 20px;
+    }
+
+    .divIcons {
+        margin-right: 50px;
+    }
     /*Fim Section 1*/
+
+    /*Section 2*/
+
+    .msg-respons {
+        display: block;
+        padding: 10px;
+    }
+
+    /*Fim Section 2*/
 
     /*Section 4*/
 
@@ -120,8 +189,22 @@
         width: 95%;
     }
 
+    .msg-respons2 {
+        display: block;
+        padding: 10px;
+    }
+
     .project3 {
         width: 95%;
+    }
+
+    .pElement4 {
+        display: none;
+    }
+
+    .msg-respons3 {
+        display: block;
+        padding: 15px;
     }
 
     /*Fim Section 4*/
