@@ -1,4 +1,4 @@
-document.querySelectorAll('.elementsMenu a, .voltar').forEach(anchor => {
+document.querySelectorAll('.elementsMenu a, .footer a').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
         e.preventDefault()
 
