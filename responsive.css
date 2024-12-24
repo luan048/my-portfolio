@@ -1,4 +1,5 @@
-/*Celulares Padrão*/
+/* *****Celulares Padrão***** */
+/*Até 370px*/
 @media (max-width: 370px) {
     /*Menu*/
 
@@ -30,7 +31,8 @@
     }
 
     .divIcons {
-        gap: 110px;
+        margin-left: 80px;
+        gap: 80px;
     }
 
     .msg-respons-init {
@@ -115,10 +117,16 @@
         font-size: 13px;
     }
 
+    .voltar {
+        width: 8%;
+        margin-top: -8px;
+    }
+
     /*Fim Footer*/
 }
 
-/* Celulares Maiores */
+/* *****Celulares Maiores***** */
+/*Entre 371px e 576px*/
 @media (min-width: 371px) and (max-width: 576px) {
     /*Menu*/
 
@@ -158,7 +166,8 @@
     }
 
     .divIcons {
-        margin-right: 50px;
+        margin-left: 50px;
+        gap: 80px;
     }
     /*Fim Section 1*/
 
@@ -213,6 +222,11 @@
 
     .educationP {
         margin-left: 50px;
+    }
+
+    .voltar {
+        width: 8%;
+        margin-top: -8px;
     }
 
     /*Fim Section 5*/
