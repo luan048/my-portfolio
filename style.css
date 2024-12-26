@@ -173,10 +173,6 @@ body, html {
     width: 35%;
 }
 
-.msg-respons2 {
-    display: none;
-}
-
 .project3 {
     width: 35%;
 }
@@ -185,7 +181,7 @@ body, html {
     margin-left: 68px;
 }
 
-.msg-respons3 {
+.msg-respons2, .msg-respons3, .msg-respons4 {
     display: none;
 }
 

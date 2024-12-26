@@ -62,13 +62,14 @@
     .msg-respons2 {
         display: block;
         padding: 10px;
+        margin-left: 20px;
     }
 
     .pElement4 {
         display: none;
     }
 
-    .msg-respons3 {
+    .msg-respons3, .msg-respons4 {
         display: block;
         padding: 15px;
     }
@@ -87,10 +88,6 @@
 
     .project2 {
         width: 90%;
-    }
-
-    .msg-respons2 {
-        margin-left: 20px;
     }
 
     .project3 {
@@ -211,7 +208,7 @@
         display: none;
     }
 
-    .msg-respons3 {
+    .msg-respons3, .msg-respons4 {
         display: block;
         padding: 15px;
     }
